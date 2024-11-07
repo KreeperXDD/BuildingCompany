@@ -8,9 +8,13 @@ namespace BuildingCompany.Manager
 {
     internal class FacilityManager:IManager
     {
-        public void CreateNewFacility(List<string> brigade)
+        public void CreateNewFacility(List<string> brigade, string facilityAdress)
         {
             //somelogic
+            foreach(var worker in StaffSchedule.Load)
+            {
+                worker.FacilityAdress = facilityAdress;
+            }
         }
     }
 }

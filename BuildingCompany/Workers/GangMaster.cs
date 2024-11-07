@@ -16,7 +16,6 @@ namespace BuildingCompany.Staff
             Name = name;
         }
 
-
         public float CalculateSalary()
         {
             var salary = 0;

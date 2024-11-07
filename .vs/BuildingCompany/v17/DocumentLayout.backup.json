@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\workers\\gangmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\workers\\gangmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\workers\\gangmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\qwertyjke\\learning\\objoranpr\\buildingcompany\\buildingcompany\\manager\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,56 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\IManager.cs",
-              "RelativeDocumentMoniker": "BuildingCompany\\Manager\\IManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\IManager.cs",
-              "RelativeToolTip": "BuildingCompany\\Manager\\IManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T00:19:29.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StaffSchedule.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
               "RelativeDocumentMoniker": "BuildingCompany\\StaffSchedule.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
               "RelativeToolTip": "BuildingCompany\\StaffSchedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T20:43:30.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GangMaster.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Workers\\GangMaster.cs",
-              "RelativeDocumentMoniker": "BuildingCompany\\Workers\\GangMaster.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Workers\\GangMaster.cs",
-              "RelativeToolTip": "BuildingCompany\\Workers\\GangMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T20:06:07.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IWorker.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
               "RelativeDocumentMoniker": "BuildingCompany\\Workers\\IWorker.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
               "RelativeToolTip": "BuildingCompany\\Workers\\IWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:45:20.884Z",
               "EditorCaption": ""
@@ -96,44 +66,53 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs",
               "RelativeDocumentMoniker": "BuildingCompany\\Manager\\MainManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs*",
-              "RelativeToolTip": "BuildingCompany\\Manager\\MainManager.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs",
+              "RelativeToolTip": "BuildingCompany\\Manager\\MainManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:38:53.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StaffManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs",
               "RelativeDocumentMoniker": "BuildingCompany\\Manager\\StaffManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs*",
-              "RelativeToolTip": "BuildingCompany\\Manager\\StaffManager.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs",
+              "RelativeToolTip": "BuildingCompany\\Manager\\StaffManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T02:08:17.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Program.cs",
               "RelativeDocumentMoniker": "BuildingCompany\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\qwertyjke\\learning\\objOrAnPr\\BuildingCompany\\BuildingCompany\\Program.cs*",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Program.cs*",
               "RelativeToolTip": "BuildingCompany\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:31:08.825Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GangMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\GangMaster.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Workers\\GangMaster.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\GangMaster.cs",
+              "RelativeToolTip": "BuildingCompany\\Workers\\GangMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:06:07.862Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -4,19 +4,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BuildingCompany.Manager
 {
     internal class StaffManager : IManager
     {
-        private List<string> _freeWorkers = new List<string>();
+        private List<string> _freeWorkers = [];
 
         public List<string> CreateNewBrigade(DateTime date)
         {
             CheckFreeWorkers(date);
 
-            List<string> brigade = new List<string>();
+            List<string> brigade = [];
 
             // набор пероснала, какая-то лоигка
 
@@ -27,14 +28,20 @@ namespace BuildingCompany.Manager
         {
             _freeWorkers.Clear();
 
-            foreach (var workerName in StaffSchedule.Load.Keys)
+            foreach (var workerName in StaffSchedule.Load)
             {
-                if (!StaffSchedule.Load[workerName].Contains(date))
+                if (workerName.Date != date)
                 {
-                    _freeWorkers.Add(workerName);
+                    _freeWorkers.Add(workerName.Name);
                 }
             }
         }
-
+        public void WorkerRegistration(List<IWorker> workers)
+        {
+            for (int i = 0; i < workers.Count; i++)
+            {
+                StaffSchedule.AddNewWorker(workers[i]);
+            }
+        }
     }
 }

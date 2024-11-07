@@ -9,20 +9,19 @@ namespace BuildingCompany
 {
     static class StaffSchedule
     {
-        public static List<Tuple<string,DateTime,string>> Load = new List<Tuple<string, DateTime, string>>();
+        public static List<Structer> Load = new();
 
         public static void EditLoad(IWorker worker, DateTime date)
         {
             foreach (var workerLoad in Load)
             {
-                workerLoad = date;
+                workerLoad.Date = date;
             }
         }
 
         public static void AddNewWorker(IWorker worker)
-        {
-            Load.Add(new(worker.Name, new DateTime(), ""));
+        { 
+            Load.Add(new(worker.Name));
         }
-
     }
 }
