@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\qwertyjke\learning\objOrAnPr\BuildingCompany\BuildingCompany\obj\Debug\net8.0\BuildingCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\qwertyjke\learning\objOrAnPr\BuildingCompany\BuildingCompany\obj\Debug\net8.0\BuildingCompany.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\qwertyjke\learning\objOrAnPr\BuildingCompany\BuildingCompany\obj\Debug\net8.0\BuildingCompany.AssemblyInfo.cs
+C:\Users\Admin\Desktop\qwertyjke\learning\objOrAnPr\BuildingCompany\BuildingCompany\obj\Debug\net8.0\BuildingCompany.csproj.CoreCompileInputs.cache
