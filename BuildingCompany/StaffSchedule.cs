@@ -9,7 +9,7 @@ namespace BuildingCompany
 {
     static class StaffSchedule
     {
-        public static List<Structer> Load = new();
+        public static List<Structure> Load = new();
 
         public static void EditLoad(IWorker worker, DateTime date)
         {

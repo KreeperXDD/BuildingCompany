@@ -11,13 +11,13 @@ namespace BuildingCompany.Manager
 {
     internal class StaffManager : IManager
     {
-        private List<string> _freeWorkers = [];
+        private List<string> _freeWorkers = new();
 
         public List<string> CreateNewBrigade(DateTime date)
         {
             CheckFreeWorkers(date);
 
-            List<string> brigade = [];
+            List<string> brigade = new();
 
             // набор пероснала, какая-то лоигка
 

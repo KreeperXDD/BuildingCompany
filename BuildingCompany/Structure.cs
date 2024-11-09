@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace BuildingCompany
 {
-    internal class Structer
+    internal class Structure
     {
         public string Name;
         public DateTime Date;
         public string FacilityAdress;
 
-        public Structer(string name, DateTime date = new(), string facilityAdress = "")
+        public Structure(string name, DateTime date = new(), string facilityAdress = "")
         {
             Name = name;
             Date = date;

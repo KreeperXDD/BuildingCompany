@@ -12,23 +12,23 @@ namespace BuildingCompany
         {
             Console.WriteLine("pls write facility adress");
             _facilityAdress = Console.ReadLine();
+            if (_facilityAdress == "")
+                CreateNewAdress();
         }
 
         private static void CreateNewDate()
         {
             Console.WriteLine("pls write works day, DD/MM/YYYY: ");
             _date = Convert.ToDateTime((Console.ReadLine()));
+            if (_date == null)
+                CreateNewDate(); 
         }
 
         private static void Main(string[] args)
         {
             CreateNewDate();
-            if(_date == null)
-                CreateNewDate();
             CreateNewAdress();
-            if(_facilityAdress == "")
-                CreateNewAdress();
-            
+
             var manager = new MainManager();
 
             manager.SomeThing();

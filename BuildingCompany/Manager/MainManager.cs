@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO.IsolatedStorage;
 using System.Linq;
 using System.Numerics;
 using System.Text;
@@ -15,10 +16,10 @@ namespace BuildingCompany.Manager
         private FacilityManager _facilityManager = new();
         private List<IWorker> _workers = new();
 
-        public void CreateNewOrder(DateTime date, string FacilityAdress)
+        public void CreateNewOrder(DateTime date, string facilityAdress)
         {
-            List<string> brigade = _staffManager.CreateNewBrigade(date);
-            _facilityManager.CreateNewFacility(brigade, FacilityAdress);
+            List<string> brigade = _staffManager.CreateNewBrigade(date); ;
+            _facilityManager.CreateNewFacility(brigade, facilityAdress);
         }
 
         public void GetFeedback()
@@ -28,7 +29,7 @@ namespace BuildingCompany.Manager
 
         public void SomeThing()
         {
-            for (int i = 0; i>=0;i++)
+            for (int i = 0; i < n ;i++)
             {
                 //парсим блокнот
                 var name = "aaa";
