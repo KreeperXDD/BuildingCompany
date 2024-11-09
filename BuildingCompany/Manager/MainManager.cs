@@ -16,6 +16,11 @@ namespace BuildingCompany.Manager
         private FacilityManager _facilityManager = new();
         private List<IWorker> _workers = new();
 
+        private void MakeLog()
+        {
+
+        }
+
         public void CreateNewOrder(DateTime date, string facilityAdress)
         {
             List<string> brigade = _staffManager.CreateNewBrigade(date); ;

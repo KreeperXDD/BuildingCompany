@@ -8,5 +8,8 @@ namespace BuildingCompany.Manager
 {
     internal interface IManager
     {
+        void MakeLog()
+        {
+        }
     }
 }

@@ -13,6 +13,11 @@ namespace BuildingCompany.Manager
     {
         private List<string> _freeWorkers = new();
 
+        private void MakeLog()
+        {
+
+        }
+
         public List<string> CreateNewBrigade(DateTime date)
         {
             CheckFreeWorkers(date);

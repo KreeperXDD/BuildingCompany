@@ -8,6 +8,11 @@ namespace BuildingCompany.Manager
 {
     internal class FacilityManager:IManager
     {
+        private void MakeLog()
+        {
+
+        }
+
         public void CreateNewFacility(List<string> brigade, string facilityAdress)
         {
             //somelogic
