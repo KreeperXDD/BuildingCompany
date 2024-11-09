@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\workers\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\manager\\facilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\facilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\structure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\staffschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\staffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|c:\\users\\admin\\desktop\\oaip\\buildingcompany\\buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E8B35A-8AD4-42B6-BBC0-65C684EFC68A}|BuildingCompany\\BuildingCompany.csproj|solutionrelative:buildingcompany\\manager\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Program.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Program.cs",
+              "RelativeToolTip": "BuildingCompany\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:22:11.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Manager\\MainManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\MainManager.cs",
+              "RelativeToolTip": "BuildingCompany\\Manager\\MainManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:22:43.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Manager\\StaffManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\StaffManager.cs",
+              "RelativeToolTip": "BuildingCompany\\Manager\\StaffManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:08:17.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\StaffSchedule.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\StaffSchedule.cs",
+              "RelativeToolTip": "BuildingCompany\\StaffSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:28:55.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Structure.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Structure.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Structure.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Structure.cs",
+              "RelativeToolTip": "BuildingCompany\\Structure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:36:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\FacilityManager.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Manager\\FacilityManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Manager\\FacilityManager.cs",
+              "RelativeToolTip": "BuildingCompany\\Manager\\FacilityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
+              "RelativeDocumentMoniker": "BuildingCompany\\Workers\\IWorker.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\oaip\\BuildingCompany\\BuildingCompany\\Workers\\IWorker.cs",
+              "RelativeToolTip": "BuildingCompany\\Workers\\IWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:45:20.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
